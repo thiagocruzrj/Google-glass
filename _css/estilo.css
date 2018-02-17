@@ -241,3 +241,12 @@ footer#rodape {
 footer#rodape p {
     text-align: center;
 }
+video#video1{
+    display: block;
+    position: relative;
+    left: 55px;
+    top: -10px;
+}
+video#video2{
+    width: 360px;
+}
